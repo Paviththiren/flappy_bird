@@ -1,6 +1,5 @@
-import cv2 as cv
 import numpy as np
-
+import cv2 as cv    
 bird_color = np.array([39,191,212])
 
 #DETECTION IN IMAGE
